@@ -1,0 +1,7 @@
+h5py
+matplotlib
+tqdm
+numpy
+torch
+torchnet
+torchvision
